@@ -16,12 +16,12 @@
 #
 # standalone_tags:
 #   [
-#     {id: ID, size: SIZE, name: NAME},
-#     ...
+#     {id: 400, size: 0.3, name: "Tag400"}
+#     
 #   ]
 standalone_tags:
   [
-  ]
+]
 # ## Tag bundle definitions
 # ### Remarks
 #
